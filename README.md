@@ -9,3 +9,9 @@ Contains Youtube links to the discussions on sprint 1, as well as the sitemap an
 Author: James Ezra Hupp
 
 Video Links:
+
+Scrum - https://youtu.be/v3aMpkNAma4
+
+Sitemap - https://youtu.be/i7uM2sxTK4s
+
+Wireframe- https://youtu.be/yFqlSztUIFA
