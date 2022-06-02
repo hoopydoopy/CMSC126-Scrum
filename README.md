@@ -10,8 +10,8 @@ Author: James Ezra Hupp
 
 Video Links:
 
-Scrum - https://youtu.be/v3aMpkNAma4
+Sprint 1 Video Playlist: https://www.youtube.com/watch?v=v3aMpkNAma4&list=PLu5YYfrMmbbFbJk7qGdfHlv-GqtKsO3S9
 
-Sitemap - https://youtu.be/i7uM2sxTK4s
+Sprint 2 Video Playlist: https://www.youtube.com/playlist?list=PLu5YYfrMmbbEvjNf2bUKcPc753-qmfh6s
 
-Wireframe- https://youtu.be/yFqlSztUIFA
+Sprint 3 Video Playlist: 
