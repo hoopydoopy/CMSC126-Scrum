@@ -14,4 +14,4 @@ Sprint 1 Video Playlist: https://www.youtube.com/watch?v=v3aMpkNAma4&list=PLu5YY
 
 Sprint 2 Video Playlist: https://www.youtube.com/playlist?list=PLu5YYfrMmbbEvjNf2bUKcPc753-qmfh6s
 
-Sprint 3 Video Playlist: 
+Sprint 3 Video Playlist: https://www.youtube.com/playlist?list=PLu5YYfrMmbbE8m9vRv-WDydCraruynV2k
